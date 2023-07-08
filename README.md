@@ -13,7 +13,7 @@ The answer we expect is: ' *"node" is not recognized as an internal or external 
 - In this guide we are going to use [nvm-windows](https://github.com/coreybutler/nvm-windows). But npm has another option [nodist](https://github.com/nullivex/nodist)
   - When we are in the nvm-windows repository, what we must do is to click on [download now!](https://github.com/coreybutler/nvm-windows/releases) that will take us to the repo releases. 
   - There we will look for the **nvm-setup.zip** and when we click on it, it will start downloading.
-  - When you have it downloaded unzip and ejecitamos the file (like any other executable we give next next, this I do so simple to avoid problems when valla to use the executable update that is in the same repo)
+  - When you have it downloaded, unzip it and execute the file (like any other executable file, I make it so simple to avoid problems when I want to update with the update executable that is in the same repo).
   - Now, restart the command line in which we are working and run nvm  
 ```sh
 nvm
